@@ -1,0 +1,56 @@
+body{
+    background-color: #fba6b0;
+}
+.logo{
+    position: absolute;
+    display: flex;
+}
+.heart{
+    width: 150px; height: 150px;
+}
+h1{
+    margin-top: 40px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 600px;
+}
+.navbar{
+    margin-top: 120px;
+    position: absolute;
+}
+.nav-item{
+    background-color: #9c153b;
+    margin: 10px;
+    border-radius: 5px;
+}
+.blog{
+    position: absolute;
+    display: flex;
+    margin-left: 150px;
+}
+.card{
+    display: inline-block;
+    margin: -50px;
+    margin-top: 210px;
+    margin-left: 80px;
+    background-color: #f04362;
+}
+.card-title{
+    color: aliceblue;
+}
+p{
+    margin-bottom: 30px;
+}
+.mais{
+    background-color: #9c153b;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 15px;
+}
+a{
+    text-decoration: none;
+}
+#section2{
+    position: absolute;
+    margin-top: 1000px;
+    background-color: aqua;
+}
